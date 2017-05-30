@@ -5,3 +5,4 @@ Some changes from the GitHub site. And more text ..............
 This text was added from the local.
 OK let's make a conflict now!!!!! :)))
 
+This is text in the main branch.
